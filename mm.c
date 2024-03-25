@@ -18,7 +18,7 @@ void main()
     {
         for (int j = 0; j<n; j++)
         {
-            printf("Matrix 1: Enter row %d column %d:\n", i, j);
+            printf("Matrix 1: Enter row no: %d column no: %d:\n", i, j);
             scanf("%d", &ma[i][j]);
         }
     }
